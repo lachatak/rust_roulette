@@ -1,0 +1,9 @@
+[package]
+name = "rust_test"
+version = "0.1.0"
+authors = ["klachata <klachata@gumtree.com>"]
+
+[dependencies]
+rand = "0.4.2"
+scheduled-thread-pool = "0.2.0"
+scan-rules = "0.2.0"
